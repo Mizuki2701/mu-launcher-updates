@@ -1,0 +1,15 @@
+//==============================================================================
+// Custom Cloak Animation
+// - #Index - Index da Cloak -> Operação: ((512*Sessao)+ItemIndex)
+// - #Type
+// 	0 - Com Tira
+// 	1 - Sem Tira 
+// - #CloakName - Nombre de la portada (junto con la extensión del archivo, en este caso TGA)
+// - #StripName - Nombre de la tira de cubierta (junto con la extensión del archivo, en este caso TGA)
+//		  OBS.: Esta opción está activa cuando se usa el Tipo 1
+//===============================================================================================================
+// Agregar archivos en: [Data/Item]
+//===============================================================================================================
+//ItemType	Mode 		CloakName //Manta					StripName //tiras
+6416            0       "Item\\RS_DARKNESSBUNNY_MT.tga"      ""	//Cloak of Dominator
+end
