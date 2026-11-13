@@ -1,0 +1,105 @@
+{
+    "version": "1311261335",
+    "files": [
+        {
+            "path": "xController.ini",
+            "hash": "a7f890d43fd46cf4bcf9d3228076db357cf5c4a9835d8396974f0e97bb387459",
+            "size": 170
+        },
+        {
+            "path": "Data/Gate.bmd",
+            "hash": "dfcd55e110a49985ded2fda42b9bdf43274bf9929f5590b594c9566b747f8640",
+            "size": 7168
+        },
+        {
+            "path": "Data/Local/FilterName.bmd",
+            "hash": "6028a636657a583adfae3ce15fadcc4195c2ef47819c1a326572dc1c3337032f",
+            "size": 10004
+        },
+        {
+            "path": "Data/Local/Eng/Dialog_eng.bmd",
+            "hash": "3429bf9a6ecb8464a605c6c13777fe1bf1645352e4014fdc262cb272501ca513",
+            "size": 204800
+        },
+        {
+            "path": "Scripts/1024x768.reg",
+            "hash": "f27090e5bc815da995b3faf350eff648338b1cc72ae895ef8e755431dc28dd43",
+            "size": 230
+        },
+        {
+            "path": "Scripts/1280x1024.reg",
+            "hash": "87c0470340884c5a545bc201398eee0ce23acb21024718a701f0f9c9133df123",
+            "size": 230
+        },
+        {
+            "path": "Scripts/1366x768.reg",
+            "hash": "f31bba16246f86b6f439770e1d1f4235d05b192950a1755470b3d2e10283b676",
+            "size": 230
+        },
+        {
+            "path": "Scripts/1440x900.reg",
+            "hash": "36b56afe8b3315589cf79d64ce5864a487bffbdffca5b48ff7798771470be537",
+            "size": 230
+        },
+        {
+            "path": "Scripts/1600x900.reg",
+            "hash": "ea2de0f9d4a200b5e1b15376a2c22a7bd193be8006aa465862781db415f76b35",
+            "size": 230
+        },
+        {
+            "path": "Scripts/1680x1050.reg",
+            "hash": "d59e137fddbb63e9398eea6c7326f076e40b38320d6e0f709bbff0f31b88e51a",
+            "size": 230
+        },
+        {
+            "path": "Scripts/1920x1080.reg",
+            "hash": "b96c322e469a60aba8a04334c0e912a91d1a8abe3bb8ccf2de18beee2bd40405",
+            "size": 230
+        },
+        {
+            "path": "Scripts/640x480.reg",
+            "hash": "2d91f73daba009ff7e67600f7b5d9e37dc14a74884de0bea99253fbc4159e716",
+            "size": 230
+        },
+        {
+            "path": "Scripts/800x600.reg",
+            "hash": "7ddeb37f2f831d9860d8ce8f1f377e065b8985eceff6ac892c2595d0dda4f009",
+            "size": 230
+        },
+        {
+            "path": "Scripts/LangEnglish.reg",
+            "hash": "d806238695a85af61b10c3ac6b2d6a81e66877a6743846e441c71c8375e1fac3",
+            "size": 108
+        },
+        {
+            "path": "Scripts/LangPortugues.reg",
+            "hash": "035fb8631f08f499869aeb249a6e00471d4d0cecc9e976673ae2b3ca4df23537",
+            "size": 108
+        },
+        {
+            "path": "Scripts/LangSpanish.reg",
+            "hash": "1132e20d8e02e6facf61d600396091f2962eed4b06fd011e375a636b795b6b2a",
+            "size": 108
+        },
+        {
+            "path": "Scripts/Sound&MusicOFF.reg",
+            "hash": "f6bbe81a87a02a21518d84f14a4e71947c8d27c7d72c4cde703fb387ba107ab7",
+            "size": 348
+        },
+        {
+            "path": "Scripts/Sound&MusicON.reg",
+            "hash": "b368113e9da9bd9050090523f3a04b919a55e135a915fedd4b26c0553d02f4da",
+            "size": 348
+        },
+        {
+            "path": "Scripts/_fullscreen_mode.reg",
+            "hash": "af08f5051847211e88e2f2f7fcb612a5649f9a61e37b767eb9f7dfa5f0b7b210",
+            "size": 234
+        },
+        {
+            "path": "Scripts/_window_mode.reg",
+            "hash": "cfea16fcdea01863c5355407c36ef43bb2407ea75787dd2a3f91bb623b7f2a3e",
+            "size": 234
+        }
+    ]
+}
