@@ -1,0 +1,25 @@
+{
+    "version": "1311261117",
+    "files": [
+        {
+            "path": "Main.dll",
+            "hash": "2d97e60b67bdf2a0fddb6a3f55c94dee849292f39d40c468c83e726ee40ace39",
+            "size": 8320000
+        },
+        {
+            "path": "Data/Gate.bmd",
+            "hash": "dfcd55e110a49985ded2fda42b9bdf43274bf9929f5590b594c9566b747f8640",
+            "size": 7168
+        },
+        {
+            "path": "Data/Local/FilterName.bmd",
+            "hash": "6028a636657a583adfae3ce15fadcc4195c2ef47819c1a326572dc1c3337032f",
+            "size": 10004
+        },
+        {
+            "path": "Data/Local/Eng/Dialog_eng.bmd",
+            "hash": "3429bf9a6ecb8464a605c6c13777fe1bf1645352e4014fdc262cb272501ca513",
+            "size": 204800
+        }
+    ]
+}
