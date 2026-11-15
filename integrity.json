@@ -1,0 +1,56 @@
+{
+    "type": "integrity_manifest",
+    "total_files": 10,
+    "files": [
+        {
+            "path": "Camera.dll",
+            "hash": "42749cf8fe2738ae81289bdd1ced5917cd3b374b02831da3fb38a986943882b5",
+            "size": 207360
+        },
+        {
+            "path": "Fluidez.dll",
+            "hash": "309e309e9d38218237af2a8ac25a1a9cc0173e51e0df52a023d4b06099691c0f",
+            "size": 271872
+        },
+        {
+            "path": "Main.dll",
+            "hash": "2d97e60b67bdf2a0fddb6a3f55c94dee849292f39d40c468c83e726ee40ace39",
+            "size": 8320000
+        },
+        {
+            "path": "MHPClient.dll",
+            "hash": "011e21d2084750a9c04693505127d9eb08ff7ac2b04dc20a2881b1b5912a1d3e",
+            "size": 719360
+        },
+        {
+            "path": "msvcp100.dll",
+            "hash": "a3ba6421991241bea9c8334b62c3088f8f131ab906c3cc52113945d05016a35f",
+            "size": 421200
+        },
+        {
+            "path": "msvcr100.dll",
+            "hash": "1221a09484964a6f38af5e34ee292b9afefccb3dc6e55435fd3aaf7c235d9067",
+            "size": 770384
+        },
+        {
+            "path": "ogg.dll",
+            "hash": "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
+            "size": 53248
+        },
+        {
+            "path": "opengl32.dll",
+            "hash": "a3c459e9adb556abe050d968f36ad41715972cdf8649fc5b57a49b225c274366",
+            "size": 17408
+        },
+        {
+            "path": "vorbisfile.dll",
+            "hash": "525d5849837c0451edc855172917b94a1b48010c781ba48f620efb9f5e597055",
+            "size": 999424
+        },
+        {
+            "path": "wzAudio.dll",
+            "hash": "4e103af4265081890ea8958b209b90416629c3ca50a7397f90f4df0781acb0db",
+            "size": 212992
+        }
+    ]
+}
