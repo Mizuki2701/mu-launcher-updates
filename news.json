@@ -1,0 +1,12 @@
+{
+  "atualizado_em": "19/11/2026 15:51",
+  "noticias": [
+    {
+      "titulo": "Teste Sistema de Noticias\\Avisos",
+      "data": "19/11/2026",
+      "tag": "AVISO",
+      "resumo": "Testando o Sistema de Noticia e Avisos",
+      "corpo": "[b]Este e um Teste do Sistema de Noticias e Avisos da nova Versao do Nosso Launcher,[color=#00a2ed]Versao: V_2.0[/color]\n[/b]\nagora vou testar todo o Sistema de cores:\n[color=#28a745]texto em verde[/color]\n[color=#ffc107]texto em amarelo[/color]\n[color=#dc3545]texto em vermelho[/color]\n[color=#9b59b6]texto em roxo[/color]\n[color=#b0b0b0]texto em cinza[/color]\nagora vou adicionar um [url=https://imgur.com/a/fhVR40e]Link[/url] para testar o sistema de redirecionamento de links.\ne por fim o sistema de Imagens:\n\n[img]https://i.imgur.com/YSEs2Vh.jpeg[/img]\n[b][color=#9b59b6]Este Ira ser o Novo All DO Servidor[/color][color=#dc3545] o All Bunny[/color][/b]"
+    }
+  ]
+}
